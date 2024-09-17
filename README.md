@@ -94,40 +94,41 @@ Abra o navegador e vá para http://localhost:3000
 
 ## Estrutura do Projeto
 
-ifood-frontend/
-├── app/
-│   ├── api/
-│   │   └── auth/
-│   │       └── [...nextauth]/
-│   │           └── route.js
-│   ├── components/
-│   │   └── Navbar.js
-│   ├── dashboard/
-│   │   └── page.js
-│   ├── login/
-│   │   └── page.js
-│   ├── payments/
-│   │   └── page.js
-│   ├── Providers.jsx
-│   ├── reports/
-│   │   └── page.js
-│   ├── transactions/
-│   │   └── page.js
-│   ├── layout.js
-│   └── page.js
-├── data/
-│   ├── payments.js
-│   ├── reports.js
-│   └── transactions.js
-├── public/
-│   └── ...
-├── styles/
-│   └── ...
-├── .env.local
-├── next.config.mjs
-├── package.json
-├── README.md
-
+  ```
+  ifood-frontend/
+  ├── app/
+  │   ├── api/
+  │   │   └── auth/
+  │   │       └── [...nextauth]/
+  │   │           └── route.js
+  │   ├── components/
+  │   │   └── Navbar.js
+  │   ├── dashboard/
+  │   │   └── page.js
+  │   ├── login/
+  │   │   └── page.js
+  │   ├── payments/
+  │   │   └── page.js
+  │   ├── Providers.jsx
+  │   ├── reports/
+  │   │   └── page.js
+  │   ├── transactions/
+  │   │   └── page.js
+  │   ├── layout.js
+  │   └── page.js
+  ├── data/
+  │   ├── payments.js
+  │   ├── reports.js
+  │   └── transactions.js
+  ├── public/
+  │   └── ...
+  ├── styles/
+  │   └── ...
+  ├── .env.local
+  ├── next.config.mjs
+  ├── package.json
+  ├── README.md
+  ```
 
 ## Detalhes dos Arquivos
 
