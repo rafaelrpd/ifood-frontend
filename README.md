@@ -236,6 +236,7 @@ Abra o navegador e vá para http://localhost:3000
       </div>
     );
   }
+  ```
 
 4. Adicione um link para a nova página na Navbar.js se necessário.
 
@@ -248,5 +249,6 @@ Abra o navegador e vá para http://localhost:3000
   <Link href="/nome-da-pagina" passHref legacyBehavior>
     <Nav.Link>Nova Página</Nav.Link>
   </Link>
+  ```
 
 5. **Verifique a nova página no navegador acessando http://localhost:3000/nome-da-pagina.**
