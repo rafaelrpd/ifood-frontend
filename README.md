@@ -86,6 +86,7 @@ Este projeto é uma aplicação front-end construída com Next.js, utilizando o 
 
   ```bash
   npm run dev
+  ```
 
 6. **Acesse a aplicação:**
 
